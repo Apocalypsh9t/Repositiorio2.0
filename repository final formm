@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pc para bank</title>
+</head>
+
+<body style="background-color: black">
+
+
+    <ol>
+        <center>
+            <section style="font-size: 40px; color: red; font-style: italic;">¿Cual es el propósito de esta pagina?
+            </section>
+            <p style="font-size: larger; color: rgba(240, 248, 255, 0.418);">Esta es una pagina con el propósito
+                de recaudar fondos para la laptop de Sebastian.
+            </p>
+        </center>
+
+
+        <main>
+
+            <li style="color: aliceblue;">
+                <h2 style="color:rgba(240, 248, 255, 0.418)"> ¿Quien es Sebastian y por qué necesita una laptop?</h2>
+            </li>
+
+            <p style="font-size: larger; color: aliceblue;"> Sebastian es un adolescente de escasos recursos que no
+                cuenta con el
+                suficiente
+                dinero como para tener una laptop propia, por lo tanto siempre tiene que movilizarse
+                a ciber cafés para poder acceder a una.
+
+                Sebastian también vive en uno de los barrios mas pobres de su ciudad, lo que hace aún mas dificil su
+                situación.
+            </p>
+
+
+            <iframe width="543" height="272" src="https://www.youtube.com/embed/qMo5wEBgKtE"
+                title="La POBREZA EXTREMA de los pueblos flotantes del Amazonas 🤫" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <audio controls>
+
+                <source src="Elevator Music.mp3" type="audio/mpeg">
+            </audio controls>
+        </main>
+
+        <article>
+            <li style="color: aliceblue;">
+                <h3 style="color:rgba(240, 248, 255, 0.418); font-size: 30px;">¿Qué benificios le traería a Sebastian
+                    tener su propia laptop?</h3>
+            </li>
+
+            <ul>
+                <li style="font-size: larger; color: aliceblue;"> Podria realizar sus deberes academicos con mas
+                    facilidad</li>
+                <li style="font-size: larger; color: aliceblue;"> Podria jugar con sus amigos a juegos onlline</li>
+                <li style="font-size: larger; color: aliceblue;"> Seria una persona mas feliz</li>
+            </ul>
+
+            <br>
+
+
+            <br>
+            <li style="color: aliceblue;">
+                <h5 style="font-size: 40px; color: rgba(240, 248, 255, 0.418); ">Opciones de laptop para Sebastian.</h5>
+            </li>
+            <h1 style="size: 40px;">
+                <table border="5" style="color: aliceblue;">
+                    <tr style="color:rgba(240, 248, 255, 0.418) ;">
+
+                        <th>Laptop</th>
+                        <th>Ram</th>
+                        <th>Procesador</th>
+                        <th>Grafica</th>
+                        <th>Espacio</th>
+                        <th>Precio</th>
+                    </tr>
+                    <tr>
+                        <td>Asus ZenBook</td>
+                        <td>16gb</td>
+                        <td>AMD ryzen 7500u</td>
+                        <td>N/A</td>
+                        <td>512gb</td>
+                        <td>500$</td>
+                    <tr>
+                        <td>Asus Tuf Gaming F15</td>
+                        <td>16gb</td>
+                        <td>Amd Ryzen 7580U</td>
+                        <td>Nvidia RTX4070</td>
+                        <td>1TB</td>
+                        <td>700$</td>
+
+                    </tr>
+
+
+                    </tr>
+
+                </table>
+            </h1>
+
+    </ol><br><br>
+
+
+
+    <p style="color: rgba(240, 248, 255, 0.418); font-size: 40px;">Formulario</p>
+    <p style="font-size: 20px;">Este es un formulario para dejarle algunas palabras a Sebastian o dejar en claro
+        que ayudaste con la causa.</p>
+    </p>
+    <h1 style="size: 30px;">
+        <form style="color: aliceblue;">
+            <label for="Nombre del remitente">Nombre del remitente</label><br>
+            <input type="text" id="Nombre del remitente" name="Nombre del remitente"><br>
+            <label for="Mensaje">Mensaje</label><br>
+            <textarea id="Mensaje" name="Mensaje"></textarea><br>
+            <label for="Edad">Edad(opcional)</label><br>
+            <input type="number" id="Edad" name="edad"><br>
+            <label for="Fecha de envio">Fecha de envio (opcional)</label><br>
+            <input type="date" id="Fecha de envio"><br><br>
+            <label for="Tarjeta de credito">Tarjeta de credito</label><br>
+            <input type="password" id="Tarjeta"><br>
+
+        </form>
+    </h1><br><br><br><br><br><br><br>
+
+
+
+
+    <h1 style="color:rgba(240, 248, 255, 0.418);" style="font-size: 60px;"
+        style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">GoFoundMe Link</h1>
+
+    <a href=https://gofund.me/bd7c3ff2 target="_blank" open in a new tab>
+        <ul>
+            <li style="font-size: 50px;">GoFoundMe</li><br>
+        </ul>
+    </a>
+    </article><br>
+
+
+
+</body>
+<footer style="font-size: 30px; background-color: rgb(236, 236, 236);">
+    <p style="color: rgb(130, 0, 0);">Cualquier inquietud al</p>
+    <nav>
+        <ul>
+            <li><a href="https://www.instagram.com/apocalypsh9t/" target="_blank" open new tab>instagram</a></li>
+            <li><a href="https://discord.com/channels/@me" target="_blank" open in a new>discord(user:veel)</a></li>
+
+
+        </ul>
+    </nav>
+</footer>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CTc1H8FBvPxAApYX9_TwecPZJI2WdSoq9Q&s" width="900px"
+    height="900px">
+</center>
+
+</html>
